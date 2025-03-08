@@ -27,3 +27,4 @@ Install the dependencies and devDependencies include the env file and start the 
 cd frontend
 yarn add
 yarn dev
+cd backend
