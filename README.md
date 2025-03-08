@@ -22,3 +22,4 @@ Park Capsule, a revolutionary solution designed to transform urban parking. Our 
 - Advance booking system.
 
 ## Installation
+Install the dependencies and devDependencies include the env file and start the server.
