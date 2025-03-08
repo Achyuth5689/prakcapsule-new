@@ -28,3 +28,4 @@ cd frontend
 yarn add
 yarn dev
 cd backend
+npm install
