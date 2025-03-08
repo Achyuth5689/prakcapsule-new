@@ -9,4 +9,5 @@ Park Capsule, a revolutionary solution designed to transform urban parking. Our 
 - Extend your booking time and finish your payment with just few click
 
 ## Tech Stack
+- Nextjs
 
