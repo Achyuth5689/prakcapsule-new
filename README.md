@@ -11,4 +11,4 @@ Park Capsule, a revolutionary solution designed to transform urban parking. Our 
 ## Tech Stack
 - Nextjs
 - Express
-
+- Razorpay
