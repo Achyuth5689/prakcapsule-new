@@ -25,3 +25,4 @@ Park Capsule, a revolutionary solution designed to transform urban parking. Our 
 Install the dependencies and devDependencies include the env file and start the server.
 ```sh
 cd frontend
+yarn add
