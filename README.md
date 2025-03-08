@@ -29,3 +29,4 @@ yarn add
 yarn dev
 cd backend
 npm install
+npm run serve
